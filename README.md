@@ -1,4 +1,4 @@
-⚡ A fast and efficient Node.js email verification tool designed to validate large lists of email addresses using multiple rotating API keys.
+email verification tool designed to validate large lists of email addresses using multiple rotating API keys.
 
 🔄 Supports bulk email checking with automatic retry handling and smart API switching for uninterrupted performance.
 
