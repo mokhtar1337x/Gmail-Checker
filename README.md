@@ -1,2 +1,16 @@
-# Gmail-Checker
-⚡ Fast Node.js email verification tool for bulk checking emails using rotating API keys. 🔄 Supports retry system, real-time results, and automatic file saving (valid / invalid / try later). 💾 Includes Telegram integration for instant results. 🚀 Lightweight, fast, and optimized for Termux &amp; Linux environments. 🧠 Simple, stable, and efficient.
+⚡ A fast and efficient Node.js email verification tool designed to validate large lists of email addresses using multiple rotating API keys.
+
+🔄 Supports bulk email checking with automatic retry handling and smart API switching for uninterrupted performance.
+
+📊 Provides real-time console output with clear status indicators (Valid / Invalid / Try Later).
+
+💾 Automatically saves results into separate files:
+- ✅ valid.txt  
+- ❌ invalid.txt  
+- ⏳ try_later.txt  
+
+📨 Optional Telegram integration to send results instantly after processing.
+
+🚀 Lightweight, fast, and optimized for Termux, Linux, and any Node.js environment.
+
+🧠 Built for speed, simplicity, and reliability.
