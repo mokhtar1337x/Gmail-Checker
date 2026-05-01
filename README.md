@@ -14,3 +14,15 @@ email verification tool designed to validate large lists of email addresses usin
 🚀 Lightweight, fast, and optimized for Termux, Linux, and any Node.js environment.
 
 🧠 Built for speed, simplicity, and reliability.
+
+
+How To install it: 
+
+apt update && apt upgrade -y
+apt install git -y
+pkg install nodejs-lts
+npm install axios
+npm install chalk
+
+
+
