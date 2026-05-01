@@ -18,11 +18,15 @@ email verification tool designed to validate large lists of email addresses usin
 
 How To install it: 
 
-apt update && apt upgrade -y. 
-apt install git -y. 
-pkg install nodejs-lts. 
-npm install axios. 
-npm install chalk. 
+apt update && apt upgrade -y
+
+apt install git -y
+
+pkg install nodejs-lts
+
+npm install axios
+
+npm install chalk
 
 
 
