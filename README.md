@@ -28,5 +28,14 @@ npm install axios
 
 npm install chalk
 
+git clone https://github.com/mokhtar1337x/Gmail-Checker
+
+cd checker-gmail;ls
+
+rm -rif emails.txt;nano emails.txt
+
+node Checker-Gmail.js
+
+
 
 
